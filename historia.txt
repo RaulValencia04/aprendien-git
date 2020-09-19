@@ -4,4 +4,6 @@ xd
 
 
 
-la verdad not voy a mentir, no se nada de html
+la verdad not voy a mentir, no se nada de html 
+
+ tampoco de css ;(
