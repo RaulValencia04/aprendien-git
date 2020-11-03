@@ -2,6 +2,8 @@ Le diremos a Git que queremos crear un nuevo repositorio para utilizar su sistem
 xd
 
  persona dos es un nuevo trabajador
+ master 1
+
 
 
 la verdad not voy a mentir, no se nada de html 
